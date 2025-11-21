@@ -2,6 +2,9 @@
     "C_Cpp.errorSquiggles": "enabled",
     "files.associations": {
         "esp_log.h": "c",
-        "esp_system.h": "c"
+        "esp_system.h": "c",
+        "freertos.h": "c",
+        "servo_sensor.h": "c",
+        "task.h": "c"
     }
 }

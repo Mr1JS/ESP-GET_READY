@@ -1,0 +1,3 @@
+- In lib add the header file for the sensor
+- In the src add your sensor .c file
+- init in main and start the sesnor before starting the xcreateTask
