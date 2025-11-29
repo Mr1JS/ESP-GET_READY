@@ -45,3 +45,7 @@ Knowledge:
 - partition : [text](https://github.com/espressif/esp-idf/tree/master/components/partition_table)
 - Mqtt : [text](https://docs.espressif.com/projects/esp-idf/en/v4.3.3/esp32/api-reference/protocols/mqtt.html) ; [text](https://medium.com/@vaishalinagori112/introduction-to-mqtt-and-setting-up-a-lab-for-mqtt-pentesting-on-macos-f6018183c2b7) ;
 [text](https://developer.espressif.com/blog/2025/05/esp-idf-mosquitto-port/)
+
+
+# IMPORTANT NOTE
+- when u start mqtt or http_server at the same time in the 
